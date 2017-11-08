@@ -1,0 +1,24 @@
+{
+  "name": "watchyourmoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulgeoion/watchyourmoney.git"
+  },
+  "keywords": [
+    "money",
+    "income",
+    "expenses"
+  ],
+  "author": "George Dulishkovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulgeoion/watchyourmoney/issues"
+  },
+  "homepage": "https://github.com/dulgeoion/watchyourmoney#readme"
+}
